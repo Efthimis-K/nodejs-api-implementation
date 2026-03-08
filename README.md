@@ -1,1 +1,1 @@
-This is a repo with basic restful api implemetation in node.js
+This is a repo with basic restful api implementation in node.js
